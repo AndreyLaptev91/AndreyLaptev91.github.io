@@ -1,0 +1,29 @@
+.box {
+	margin-top: 60px;
+ width: 180px;
+ display: inline-block;
+ 
+}
+.row{
+	vertical-align: top;
+}
+
+.p{
+		text-align: center;
+		display: inline-block;
+		vertical-align: bottom;
+}
+
+ .header {
+  font-size: 28px;
+  line-height: 5; 
+  font-weight: 400;
+  text-transform: uppercase;
+
+
+ }
+  
+
+  }
+
+ 
