@@ -1,0 +1,27 @@
+.box {
+ background-color: black;
+ padding: 20px;
+ border: 5px solid gray;
+position: fixed;
+left: 0;
+top: 0;
+height: 50px;
+width: 100%;
+
+
+}
+
+
+a{
+	text-transform:uppercase;
+	text-decoration:underline;
+ color:white;
+ display:inline-block;
+ width: 150px;
+}
+
+p{
+	text-transform: uppercase;
+	text-align: justify;
+	margin-top: 120px;
+}

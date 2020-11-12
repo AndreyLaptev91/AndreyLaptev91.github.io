@@ -1,0 +1,14 @@
+
+.box{
+	box-sizing: border-box;
+	background-color: #white;
+	width: 300px;
+	height: 400px;
+	border: 2px solid gray;
+	position:absolute;
+ margin: 20px 30px;
+ left:50%;
+ top:200px;
+ margin-left: -150px;
+
+}
